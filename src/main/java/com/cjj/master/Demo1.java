@@ -6,6 +6,5 @@ public class Demo1 {
         System.out.println("master dev demo1");
         System.out.println("修改了的");
         System.out.println("master demo1");
-
     }
 }
