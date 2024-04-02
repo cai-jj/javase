@@ -12,6 +12,14 @@ public class Common {
         System.out.println("dev1 B");
         System.out.println("B ..........");
     }
+    public void C() {
+        System.out.println("dev2 C");
+        System.out.println("C ...........");
+    }
 
 
+    public void D() {
+        System.out.println("dev2 D");
+        System.out.println("D ...........");
+    }
 }
